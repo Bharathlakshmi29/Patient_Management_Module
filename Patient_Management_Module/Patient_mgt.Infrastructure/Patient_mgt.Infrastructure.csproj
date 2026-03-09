@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="16.0.0" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.1.0" />
+    <PackageReference Include="EPPlus" Version="7.5.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.24" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Patient_mgt.Application\Patient_mgt.Application.csproj" />
+    <ProjectReference Include="..\Patient_mgt.Data\Patient_mgt.Data.csproj" />
+    <ProjectReference Include="..\Patient_mgt.Domain\Patient_mgt.Domain.csproj" />
+    <ProjectReference Include="..\Patient_mgt.DTOs\Patient_mgt.DTOs.csproj" />
+  </ItemGroup>
+
+</Project>

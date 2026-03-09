@@ -1,0 +1,15 @@
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\bin\Debug\net10.0\Patient_mgt.DTOs.deps.json
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\bin\Debug\net10.0\Patient_mgt.DTOs.dll
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\bin\Debug\net10.0\Patient_mgt.DTOs.pdb
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\bin\Debug\net10.0\Patient_mgt.Domain.dll
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\obj\Debug\net10.0\Patient_mgt.DTOs.csproj.AssemblyReference.cache
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\obj\Debug\net10.0\Patient_mgt.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\obj\Debug\net10.0\Patient_mgt.DTOs.AssemblyInfoInputs.cache
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\obj\Debug\net10.0\Patient_mgt.DTOs.AssemblyInfo.cs
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\obj\Debug\net10.0\Patient_mgt.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\obj\Debug\net10.0\Patient_.94312FAD.Up2Date
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\obj\Debug\net10.0\Patient_mgt.DTOs.dll
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\obj\Debug\net10.0\refint\Patient_mgt.DTOs.dll
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\obj\Debug\net10.0\Patient_mgt.DTOs.pdb
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.DTOs\obj\Debug\net10.0\ref\Patient_mgt.DTOs.dll

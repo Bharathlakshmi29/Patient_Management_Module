@@ -1,0 +1,15 @@
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\bin\Debug\net10.0\Patient_mgt.Application.deps.json
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\bin\Debug\net10.0\Patient_mgt.Application.dll
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\bin\Debug\net10.0\Patient_mgt.Application.pdb
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\bin\Debug\net10.0\Patient_mgt.Domain.dll
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\obj\Debug\net10.0\Patient_mgt.Application.csproj.AssemblyReference.cache
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\obj\Debug\net10.0\Patient_mgt.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\obj\Debug\net10.0\Patient_mgt.Application.AssemblyInfoInputs.cache
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\obj\Debug\net10.0\Patient_mgt.Application.AssemblyInfo.cs
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\obj\Debug\net10.0\Patient_mgt.Application.csproj.CoreCompileInputs.cache
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\obj\Debug\net10.0\Patient_.E8EEC496.Up2Date
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\obj\Debug\net10.0\Patient_mgt.Application.dll
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\obj\Debug\net10.0\refint\Patient_mgt.Application.dll
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\obj\Debug\net10.0\Patient_mgt.Application.pdb
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Application\obj\Debug\net10.0\ref\Patient_mgt.Application.dll
