@@ -30,6 +30,9 @@ namespace Patient_mgt.Domain
         [MaxLength(1000)]
         public string? Notes { get; set; }
 
+        [MaxLength(500)]
+        public string? ExistingConditions { get; set; }
+
         [Required]
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 

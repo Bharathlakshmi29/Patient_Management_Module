@@ -1,0 +1,34 @@
+graph TD
+    %% Frontend
+    subgraph Frontend [Angular Client]
+        UI[User Interface]
+        AuthGuard[Auth/Role Guards]
+        UI -->|REST API Calls + JWT| APIGateway[API Endpoints]
+    end
+
+    %% Backend
+    subgraph Backend [.NET Core API]
+        APIGateway --> Controllers[API Controllers]
+        Controllers --> Services[Business Services Layer]
+        
+        %% External Services Orchestration
+        Services --> Cloudinary[Cloudinary Service: Storage]
+        Services --> OCR[OCR Service: Extraction]
+        Services --> Gemini[Gemini Service: AI Lab Analysis]
+        Services --> ICD[ICD-10 Service: Diagnosis]
+        
+        Services --> DataAccess[Entity Framework Core]
+    end
+
+    %% Database
+    subgraph Database [Relational DB]
+        DataAccess --> SQLData[(SQL Database)]
+    end
+
+    %% External Providers
+    subgraph External [External APIs]
+        Cloudinary --> ExtCloudinary[Cloudinary Cloud]
+        OCR --> ExtOCR[OCR API Provider]
+        Gemini --> ExtGemini[Google Gemini API]
+        ICD --> ExtICD[ClinicalTables API]
+    end

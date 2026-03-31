@@ -10,6 +10,8 @@ namespace Patient_mgt.Data
         public DbSet<Doctor> Doctors { get; set; }
         public DbSet<EMR> EMRs { get; set; }
         public DbSet<PrescribedMedicine> PrescribedMedicines { get; set; }
+        public DbSet<Insurance> Insurances { get; set; }
+        public DbSet<MedicalReport> MedicalReports { get; set; }
       
         public PatientContext(DbContextOptions<PatientContext> options) : base(options) 
         { }
@@ -46,6 +48,18 @@ namespace Patient_mgt.Data
                 .HasOne(pm => pm.EMR)
                 .WithMany(e => e.PrescribedMedicines)
                 .HasForeignKey(pm => pm.EMRId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<Insurance>()
+                .HasOne(i => i.Patient)
+                .WithMany(p => p.Insurances)
+                .HasForeignKey(i => i.PatientId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<MedicalReport>()
+                .HasOne(mr => mr.Patient)
+                .WithMany(p => p.MedicalReports)
+                .HasForeignKey(mr => mr.PatientId)
                 .OnDelete(DeleteBehavior.Cascade);
         }
     }

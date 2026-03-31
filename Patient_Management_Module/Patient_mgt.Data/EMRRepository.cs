@@ -75,6 +75,7 @@ namespace Patient_mgt.Data
                 existingEMR.Diagnosis = emr.Diagnosis;
                 existingEMR.ICDCode = emr.ICDCode;
                 existingEMR.Notes = emr.Notes;
+                existingEMR.ExistingConditions = emr.ExistingConditions;
                 existingEMR.VisitDate = emr.VisitDate;
 
                 // Update prescribed medicines

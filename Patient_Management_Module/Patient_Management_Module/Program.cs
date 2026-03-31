@@ -7,11 +7,13 @@ using Microsoft.OpenApi.Models;
 using Patient_mgt.Application;
 using Patient_mgt.Data;
 using Patient_mgt.Infrastructure;
+using Patient_mgt.Infrastructure.RAG;
 using Patient_mgt.Mappings;
 using Patient_Management_Module.Middleware;
 
 
 
+AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 var builder = WebApplication.CreateBuilder(args);  //config-appsettings
 
 
@@ -25,8 +27,7 @@ builder.Services.AddSwaggerGen();
 
 
 builder.Services.AddDbContext<PatientContext>(
-    options => options.UseSqlServer(builder.Configuration.GetConnectionString("dbconn")));
-
+    options => options.UseNpgsql(builder.Configuration.GetConnectionString("dbConn")));
 
 
 
@@ -40,7 +41,20 @@ builder.Services.AddScoped<DoctorRepository>();
 builder.Services.AddScoped<IDoctorService, DoctorService>();
 builder.Services.AddScoped<IEMR, EMRRepository>();
 builder.Services.AddScoped<IEMRService, EMRService>();
+builder.Services.AddScoped<IInsurance, InsuranceRepository>();
+builder.Services.AddScoped<IInsuranceService, InsuranceService>();
+builder.Services.AddScoped<IMedicalReportRepository, MedicalReportRepository>();
+builder.Services.AddScoped<IMedicalReportService, MedicalReportService>();
+builder.Services.AddScoped<ICloudinaryService, CloudinaryService>();
+builder.Services.AddScoped<IGeminiService, GeminiService>();
+builder.Services.AddScoped<IOcrService, OcrService>();
+builder.Services.AddHttpClient();
+builder.Services.AddHttpClient<IIcdService, IcdService>();
+builder.Services.AddHttpClient<IRagService, RagService>();
+builder.Services.AddScoped<ChatService>();
 
+builder.Services.AddScoped<IQueryRouter, QueryRouter>();
+builder.Services.AddScoped<IPatientDataService, PatientDataService>();
 
 
 builder.Services.AddSingleton<IMapper>(sp =>
@@ -110,10 +124,10 @@ builder.Services.AddControllers().AddJsonOptions(opt =>
 // Cross-Origin Resource Sharing 
 builder.Services.AddCors(opt =>
 {
-    opt.AddPolicy("AllowAngular", pol => pol.WithOrigins("http://localhost:4200/")
-    .AllowAnyOrigin()
+    opt.AddPolicy("AllowAngular", pol => pol.WithOrigins("http://localhost:4200")
     .AllowAnyMethod()
     .AllowAnyHeader()
+    .AllowCredentials()
     );
 
 });
@@ -135,6 +149,7 @@ app.UseCors("AllowAngular");
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

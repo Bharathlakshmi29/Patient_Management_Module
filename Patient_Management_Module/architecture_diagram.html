@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Architecture Flow Diagram</title>
+    <!-- Include Mermaid.js for rendering the diagram in the browser -->
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({ startOnLoad: true, theme: 'default' });
+    </script>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background-color: #f8f9fa; 
+            color: #333;
+            margin: 0;
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h2 { margin-bottom: 20px; color: #0056b3; }
+        .diagram-container { 
+            background: #ffffff; 
+            padding: 30px; 
+            border-radius: 12px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1); 
+            max-width: 900px;
+            width: 100%;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <h2>Patient Management Module Architecture</h2>
+    <div class="diagram-container">
+        <div class="mermaid">
+graph TD
+    %% Frontend
+    subgraph Frontend [Angular Client]
+        UI[User Interface]
+        AuthGuard[Auth/Role Guards]
+        UI -->|REST API Calls + JWT| APIGateway[API Endpoints]
+    end
+
+    %% Backend
+    subgraph Backend [.NET Core API]
+        APIGateway --> Controllers[API Controllers]
+        Controllers --> Services[Business Services Layer]
+        
+        %% External Services Orchestration
+        Services --> Cloudinary[Cloudinary Service: Storage]
+        Services --> OCR[OCR Service: Extraction]
+        Services --> Gemini[Gemini Service: AI Lab Analysis]
+        Services --> ICD[ICD-10 Service: Diagnosis]
+        
+        Services --> DataAccess[Entity Framework Core]
+    end
+
+    %% Database
+    subgraph Database [Relational DB]
+        DataAccess --> SQLData[(SQL Database)]
+    end
+
+    %% External Providers
+    subgraph External [External APIs]
+        Cloudinary --> ExtCloudinary[Cloudinary Cloud]
+        OCR --> ExtOCR[OCR API Provider]
+        Gemini --> ExtGemini[Google Gemini API]
+        ICD --> ExtICD[ClinicalTables API]
+    end
+        </div>
+    </div>
+</body>
+</html>

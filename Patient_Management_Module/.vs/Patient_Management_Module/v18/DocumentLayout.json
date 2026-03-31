@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_management_module\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|solutionrelative:patient_management_module\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.infrastructure\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|solutionrelative:patient_mgt.infrastructure\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_management_module\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|solutionrelative:patient_management_module\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.infrastructure\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|solutionrelative:patient_mgt.infrastructure\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.infrastructure\\patientdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|solutionrelative:patient_mgt.infrastructure\\patientdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.infrastructure\\queryrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|solutionrelative:patient_mgt.infrastructure\\queryrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.infrastructure\\rag\\ragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|solutionrelative:patient_mgt.infrastructure\\rag\\ragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.infrastructure\\rag\\iragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|solutionrelative:patient_mgt.infrastructure\\rag\\iragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_management_module\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|solutionrelative:patient_management_module\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_management_module\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|solutionrelative:patient_management_module\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EDE001-B375-4447-AFC1-792ACD92DAC2}|Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EDE001-B375-4447-AFC1-792ACD92DAC2}|Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj|solutionrelative:patient_mgt.dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C187C-CAF5-451E-9AFD-BB6D8AA10F52}|Patient_mgt.Domain\\Patient_mgt.Domain.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472C187C-CAF5-451E-9AFD-BB6D8AA10F52}|Patient_mgt.Domain\\Patient_mgt.Domain.csproj|solutionrelative:patient_mgt.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EDE001-B375-4447-AFC1-792ACD92DAC2}|Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.dtos\\patient_mgt.dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06EDE001-B375-4447-AFC1-792ACD92DAC2}|Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj|solutionrelative:patient_mgt.dtos\\patient_mgt.dtos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_management_module\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|solutionrelative:patient_management_module\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_management_module\\patient_management_module.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|solutionrelative:patient_management_module\\patient_management_module.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EAFF55-26DF-4FB6-9C3B-B7BBFC98224F}|Patient_mgt.Mappings\\Patient_mgt.Mappings.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EAFF55-26DF-4FB6-9C3B-B7BBFC98224F}|Patient_mgt.Mappings\\Patient_mgt.Mappings.csproj|solutionrelative:patient_mgt.mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.infrastructure\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|solutionrelative:patient_mgt.infrastructure\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.infrastructure\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|solutionrelative:patient_mgt.infrastructure\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C187C-CAF5-451E-9AFD-BB6D8AA10F52}|Patient_mgt.Domain\\Patient_mgt.Domain.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{472C187C-CAF5-451E-9AFD-BB6D8AA10F52}|Patient_mgt.Domain\\Patient_mgt.Domain.csproj|solutionrelative:patient_mgt.domain\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4A76CD-63B6-4539-9524-4B943E2AE9C2}|Patient_mgt.Application\\Patient_mgt.Application.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.application\\ipatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4A76CD-63B6-4539-9524-4B943E2AE9C2}|Patient_mgt.Application\\Patient_mgt.Application.csproj|solutionrelative:patient_mgt.application\\ipatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EDE001-B375-4447-AFC1-792ACD92DAC2}|Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EDE001-B375-4447-AFC1-792ACD92DAC2}|Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj|solutionrelative:patient_mgt.dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472C187C-CAF5-451E-9AFD-BB6D8AA10F52}|Patient_mgt.Domain\\Patient_mgt.Domain.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.domain\\patient_mgt.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{472C187C-CAF5-451E-9AFD-BB6D8AA10F52}|Patient_mgt.Domain\\Patient_mgt.Domain.csproj|solutionrelative:patient_mgt.domain\\patient_mgt.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.infrastructure\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|solutionrelative:patient_mgt.infrastructure\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EAFF55-26DF-4FB6-9C3B-B7BBFC98224F}|Patient_mgt.Mappings\\Patient_mgt.Mappings.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.mappings\\patient_mgt.mappings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05EAFF55-26DF-4FB6-9C3B-B7BBFC98224F}|Patient_mgt.Mappings\\Patient_mgt.Mappings.csproj|solutionrelative:patient_mgt.mappings\\patient_mgt.mappings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136BADD-0CC1-4A65-A2F4-B55380FAEC13}|Patient_mgt.Data\\Patient_mgt.Data.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.data\\patientcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C136BADD-0CC1-4A65-A2F4-B55380FAEC13}|Patient_mgt.Data\\Patient_mgt.Data.csproj|solutionrelative:patient_mgt.data\\patientcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_management_module\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B4A67B-48B1-4A0F-A73A-BF7298948A4E}|Patient_Management_Module\\Patient_Management_Module.csproj|solutionrelative:patient_management_module\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C136BADD-0CC1-4A65-A2F4-B55380FAEC13}|Patient_mgt.Data\\Patient_mgt.Data.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.data\\patient_mgt.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C136BADD-0CC1-4A65-A2F4-B55380FAEC13}|Patient_mgt.Data\\Patient_mgt.Data.csproj|solutionrelative:patient_mgt.data\\patient_mgt.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|d:\\patient_management_module- pgvector\\patient_management_module\\patient_mgt.infrastructure\\patient_mgt.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6C70B13-39D0-436A-9BA6-F1EFA3AA5A97}|Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj|solutionrelative:patient_mgt.infrastructure\\patient_mgt.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KANINI\\Patient_Management_Module\\Patient_mgt.Data\\Migrations\\20260217073338_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientDataService.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\PatientDataService.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Infrastructure\\PatientDataService.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\PatientDataService.cs",
+              "RelativeToolTip": "Patient_mgt.Infrastructure\\PatientDataService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:31:33.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\ChatService.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Infrastructure\\ChatService.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\ChatService.cs",
+              "RelativeToolTip": "Patient_mgt.Infrastructure\\ChatService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T11:53:01.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Program.cs",
+              "RelativeDocumentMoniker": "Patient_Management_Module\\Program.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Program.cs",
+              "RelativeToolTip": "Patient_Management_Module\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueryRouter.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\QueryRouter.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Infrastructure\\QueryRouter.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\QueryRouter.cs",
+              "RelativeToolTip": "Patient_mgt.Infrastructure\\QueryRouter.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:19:26.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\GeminiService.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Infrastructure\\GeminiService.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\GeminiService.cs",
+              "RelativeToolTip": "Patient_mgt.Infrastructure\\GeminiService.cs",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAAwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T11:32:51.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "Patient_Management_Module\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "Patient_Management_Module\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:14:30.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RagService.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\RAG\\RagService.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Infrastructure\\RAG\\RagService.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\RAG\\RagService.cs",
+              "RelativeToolTip": "Patient_mgt.Infrastructure\\RAG\\RagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:11:43.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Patient_mgt.DTOs.csproj",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj",
+              "RelativeDocumentMoniker": "Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj",
+              "RelativeToolTip": "Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T10:09:29.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "loginDTO.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\loginDTO.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.DTOs\\loginDTO.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\loginDTO.cs",
+              "RelativeToolTip": "Patient_mgt.DTOs\\loginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRagService.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\RAG\\IRagService.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Infrastructure\\RAG\\IRagService.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\RAG\\IRagService.cs",
+              "RelativeToolTip": "Patient_mgt.Infrastructure\\RAG\\IRagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:11:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\User.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Domain\\User.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\User.cs",
+              "RelativeToolTip": "Patient_mgt.Domain\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Patient_Management_Module\\Controllers\\TokenController.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Patient_Management_Module\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwBoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPatient.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Application\\IPatient.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Application\\IPatient.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Application\\IPatient.cs",
+              "RelativeToolTip": "Patient_mgt.Application\\IPatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\appsettings.json",
+              "RelativeDocumentMoniker": "Patient_Management_Module\\appsettings.json",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\appsettings.json",
+              "RelativeToolTip": "Patient_Management_Module\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T10:09:29.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Patient_Management_Module\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Patient_Management_Module\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20260217073338_init.cs",
+              "DocumentMoniker": "D:\\KANINI\\Patient_Management_Module\\Patient_mgt.Data\\Migrations\\20260217073338_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\KANINI\\Patient_Management_Module\\Patient_mgt.Data\\Migrations\\20260217073338_init.cs",
+              "ToolTip": "D:\\KANINI\\Patient_Management_Module\\Patient_mgt.Data\\Migrations\\20260217073338_init.cs",
+              "RelativeToolTip": "..\\..\\KANINI\\Patient_Management_Module\\Patient_mgt.Data\\Migrations\\20260217073338_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Patient_mgt.Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PatientDTO.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\PatientDTO.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.DTOs\\PatientDTO.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\PatientDTO.cs",
+              "RelativeToolTip": "Patient_mgt.DTOs\\PatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Infrastructure\\PatientRepository.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\PatientRepository.cs",
+              "RelativeToolTip": "Patient_mgt.Infrastructure\\PatientRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwBcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Domain\\Patient.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient.cs",
+              "RelativeToolTip": "Patient_mgt.Domain\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\PatientService.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Infrastructure\\PatientService.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\PatientService.cs",
+              "RelativeToolTip": "Patient_mgt.Infrastructure\\PatientService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA7wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Patient_Management_Module.csproj",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Patient_Management_Module.csproj",
+              "RelativeDocumentMoniker": "Patient_Management_Module\\Patient_Management_Module.csproj",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Patient_Management_Module.csproj",
+              "RelativeToolTip": "Patient_Management_Module\\Patient_Management_Module.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T10:09:29.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Patient_mgt.Domain.csproj",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj",
+              "RelativeDocumentMoniker": "Patient_mgt.Domain\\Patient_mgt.Domain.csproj",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj",
+              "RelativeToolTip": "Patient_mgt.Domain\\Patient_mgt.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T10:09:29.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Infrastructure\\IPatientService.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\IPatientService.cs",
+              "RelativeToolTip": "Patient_mgt.Infrastructure\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Patient_mgt.Mappings.csproj",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Mappings\\Patient_mgt.Mappings.csproj",
+              "RelativeDocumentMoniker": "Patient_mgt.Mappings\\Patient_mgt.Mappings.csproj",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Mappings\\Patient_mgt.Mappings.csproj",
+              "RelativeToolTip": "Patient_mgt.Mappings\\Patient_mgt.Mappings.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T10:09:29.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PatientContext.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Data\\PatientContext.cs",
+              "RelativeDocumentMoniker": "Patient_mgt.Data\\PatientContext.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Data\\PatientContext.cs",
+              "RelativeToolTip": "Patient_mgt.Data\\PatientContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Patient_Management_Module\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_Management_Module\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Patient_Management_Module\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T10:09:29.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Patient_mgt.Data.csproj",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj",
+              "RelativeDocumentMoniker": "Patient_mgt.Data\\Patient_mgt.Data.csproj",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj",
+              "RelativeToolTip": "Patient_mgt.Data\\Patient_mgt.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T10:09:29.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Patient_mgt.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj",
+              "ToolTip": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj",
+              "RelativeToolTip": "Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T10:09:29.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using Patient_mgt.Data;
@@ -61,7 +61,17 @@ namespace Patient_Management_Module.Controllers
             var user = _context.Users.FirstOrDefault(u => u.EmailId == email);
             if (user == null) return null;
             
-            bool isValidPassword = BCrypt.Net.BCrypt.Verify(password, user.Password);
+            bool isValidPassword = false;
+            try
+            {
+                isValidPassword = BCrypt.Net.BCrypt.Verify(password, user.Password);
+            }
+            catch (BCrypt.Net.SaltParseException)
+            {
+                // Fallback for plain text passwords in development / seeded data
+                isValidPassword = (password == user.Password);
+            }
+
             return isValidPassword ? user : null;
         }
     }

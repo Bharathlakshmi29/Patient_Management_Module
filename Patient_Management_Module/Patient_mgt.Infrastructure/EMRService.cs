@@ -44,6 +44,8 @@ namespace Patient_mgt.Infrastructure
         {
             try
             {
+                Console.WriteLine($"CreateEMR - ExistingConditions received: '{dto.ExistingConditions}'");
+                
                 var emr = new EMR
                 {
                     PatientId = dto.PatientId,
@@ -52,6 +54,7 @@ namespace Patient_mgt.Infrastructure
                     Diagnosis = dto.Diagnosis,
                     ICDCode = dto.ICDCode,
                     Notes = dto.Notes,
+                    ExistingConditions = dto.ExistingConditions,
                     PrescribedMedicines = dto.PrescribedMedicines.Select(pm => new PrescribedMedicine
                     {
                         MedicineName = pm.MedicineName,
@@ -61,7 +64,12 @@ namespace Patient_mgt.Infrastructure
                     }).ToList()
                 };
 
+                Console.WriteLine($"CreateEMR - EMR ExistingConditions before save: '{emr.ExistingConditions}'");
+                
                 var created = await _repo.AddEMR(emr);
+                
+                Console.WriteLine($"CreateEMR - EMR ExistingConditions after save: '{created.ExistingConditions}'");
+                
                 return _mapper.Map<EMRDTO>(created);
             }
             catch (Exception ex)
@@ -81,6 +89,7 @@ namespace Patient_mgt.Infrastructure
                 Diagnosis = dto.Diagnosis,
                 ICDCode = dto.ICDCode,
                 Notes = dto.Notes,
+                ExistingConditions = dto.ExistingConditions,
                 PrescribedMedicines = dto.PrescribedMedicines.Select(pm => new PrescribedMedicine
                 {
                     MedicineName = pm.MedicineName,
@@ -120,6 +129,7 @@ namespace Patient_mgt.Infrastructure
                 Diagnosis = emr.Diagnosis,
                 ICDCode = emr.ICDCode,
                 Notes = emr.Notes,
+                ExistingConditions = emr.ExistingConditions,
                 CreatedAt = emr.CreatedAt,
                 PrescribedMedicines = emr.PrescribedMedicines.Select(pm => new GetPrescribedMedicineDTO
                 {

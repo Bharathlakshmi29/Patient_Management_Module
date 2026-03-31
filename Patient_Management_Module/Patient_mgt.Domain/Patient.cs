@@ -74,12 +74,18 @@ namespace Patient_mgt.Domain
         [Required]
         public bool IsActive { get; set; } = true;
 
-        // Store image as binary in DB
-        [Column(TypeName = "varbinary(max)")]
-        public byte[]? Photo { get; set; }
+        // Store image URL from Cloudinary
+        [MaxLength(500)]
+        public string? PhotoUrl { get; set; }
 
         [Required]
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+
+        // Navigation property for multiple insurance records
+        public ICollection<Insurance> Insurances { get; set; } = new List<Insurance>();
+
+        // Navigation property for medical reports
+        public ICollection<MedicalReport> MedicalReports { get; set; } = new List<MedicalReport>();
     }
 
   

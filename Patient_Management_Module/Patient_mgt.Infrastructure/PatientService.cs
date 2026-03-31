@@ -15,17 +15,27 @@ namespace Patient_mgt.Infrastructure
     {
         private readonly IPatient _repo;
         private readonly IMapper _mapper;
+        private readonly ICloudinaryService _cloudinaryService;
 
-        public PatientService(IPatient repo, IMapper mapper)
+        public PatientService(IPatient repo, IMapper mapper, ICloudinaryService cloudinaryService)
         {
             _repo = repo;
             _mapper = mapper;
+            _cloudinaryService = cloudinaryService;
         }
 
         public async Task<IEnumerable<GetPatientDTO>> GetAllPatients()
         {
             var patients = await _repo.GetAllPatients();
-            return _mapper.Map<IEnumerable<GetPatientDTO>>(patients);
+            var result = _mapper.Map<IEnumerable<GetPatientDTO>>(patients);
+            
+            // Debug: Log photoUrl for each patient
+            foreach (var patient in result)
+            {
+                Console.WriteLine($"Patient: {patient.FullName}, PhotoUrl: {patient.PhotoUrl ?? "NULL"}");
+            }
+            
+            return result;
         }
 
         public async Task<GetPatientDTO?> GetPatientById(int id)
@@ -60,7 +70,18 @@ namespace Patient_mgt.Infrastructure
             {
                 using var ms = new MemoryStream();
                 await dto.Photo.CopyToAsync(ms);
-                patient.Photo = ms.ToArray();
+                var photoBytes = ms.ToArray();
+                
+                Console.WriteLine($"Uploading photo for patient. File size: {photoBytes.Length} bytes, FileName: {dto.Photo.FileName}");
+                
+                // Upload to Cloudinary
+                patient.PhotoUrl = await _cloudinaryService.UploadImageAsync(
+                    photoBytes, 
+                    dto.Photo.FileName, 
+                    "patient-photos"
+                );
+                
+                Console.WriteLine($"Photo uploaded successfully. PhotoUrl: {patient.PhotoUrl}");
             }
 
             var created = await _repo.AddPatient(patient);
@@ -109,7 +130,14 @@ namespace Patient_mgt.Infrastructure
             {
                 using var ms = new MemoryStream();
                 await dto.Photo.CopyToAsync(ms);
-                existingPatient.Photo = ms.ToArray();
+                var photoBytes = ms.ToArray();
+                
+                // Upload to Cloudinary
+                existingPatient.PhotoUrl = await _cloudinaryService.UploadImageAsync(
+                    photoBytes, 
+                    dto.Photo.FileName, 
+                    "patient-photos"
+                );
             }
 
             await _repo.UpdatePatient(id, existingPatient);

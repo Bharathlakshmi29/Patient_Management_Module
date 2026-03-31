@@ -172,3 +172,827 @@ C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Manage
 C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.pdb
 C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.genruntimeconfig.cache
 C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\ref\Patient_Management_Module.dll
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.sourcelink.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\appsettings.Development.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\appsettings.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.staticwebassets.endpoints.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.exe
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.deps.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.runtimeconfig.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\AutoMapper.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Azure.Core.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Azure.Identity.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\BCrypt.Net-Next.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.Interfaces.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.System.Drawing.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Humanizer.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.OpenApi.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Mono.TextTemplating.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.ClientModel.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.CodeDom.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Convention.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Hosting.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Runtime.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.TypedParts.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Drawing.Common.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Memory.Data.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Runtime.Caching.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Security.Permissions.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Windows.Extensions.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Application.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Data.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Domain.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.DTOs.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Infrastructure.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Mappings.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Data.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.DTOs.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Mappings.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Application.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.csproj.AssemblyReference.cache
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rpswa.dswa.cache.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.GeneratedMSBuildEditorConfig.editorconfig
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.AssemblyInfoInputs.cache
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.AssemblyInfo.cs
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.csproj.CoreCompileInputs.cache
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.MvcApplicationPartsAssemblyInfo.cs
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.MvcApplicationPartsAssemblyInfo.cache
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.sourcelink.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjimswa.dswa.cache.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\scopedcss\bundle\Patient_Management_Module.styles.css
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.json.cache
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.development.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\swae.build.ex.cache
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_.C805D2A4.Up2Date
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\refint\Patient_Management_Module.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.genruntimeconfig.cache
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\ref\Patient_Management_Module.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\CloudinaryDotNet.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\appsettings.Development.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\appsettings.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.staticwebassets.endpoints.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.exe
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.deps.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.runtimeconfig.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\AutoMapper.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Azure.Core.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Azure.Identity.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\BCrypt.Net-Next.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\CloudinaryDotNet.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.Interfaces.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.System.Drawing.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Humanizer.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.ClientModel.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.CodeDom.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Memory.Data.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Runtime.Caching.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Application.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Data.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Domain.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.DTOs.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Mappings.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Data.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.DTOs.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Mappings.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Application.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.csproj.AssemblyReference.cache
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.AssemblyInfoInputs.cache
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.AssemblyInfo.cs
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.csproj.CoreCompileInputs.cache
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.MvcApplicationPartsAssemblyInfo.cs
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.MvcApplicationPartsAssemblyInfo.cache
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.sourcelink.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\scopedcss\bundle\Patient_Management_Module.styles.css
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.development.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\swae.build.ex.cache
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_.C805D2A4.Up2Date
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\refint\Patient_Management_Module.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.genruntimeconfig.cache
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\ref\Patient_Management_Module.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\appsettings.Development.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\appsettings.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.staticwebassets.endpoints.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.exe
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.deps.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.runtimeconfig.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\AutoMapper.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\BCrypt.Net-Next.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\CloudinaryDotNet.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.Interfaces.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.System.Drawing.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Humanizer.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Npgsql.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.CodeDom.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Application.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Data.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Domain.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.DTOs.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Mappings.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Data.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.DTOs.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Mappings.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Application.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.csproj.AssemblyReference.cache
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.AssemblyInfoInputs.cache
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.AssemblyInfo.cs
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.csproj.CoreCompileInputs.cache
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.MvcApplicationPartsAssemblyInfo.cs
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.MvcApplicationPartsAssemblyInfo.cache
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.sourcelink.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\scopedcss\bundle\Patient_Management_Module.styles.css
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.development.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\swae.build.ex.cache
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_.C805D2A4.Up2Date
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\refint\Patient_Management_Module.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.genruntimeconfig.cache
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\ref\Patient_Management_Module.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\appsettings.Development.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\appsettings.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.staticwebassets.endpoints.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.exe
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.deps.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.runtimeconfig.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\AutoMapper.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\BCrypt.Net-Next.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\CloudinaryDotNet.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.Interfaces.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.System.Drawing.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Humanizer.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Npgsql.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.CodeDom.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Application.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Data.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Domain.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.DTOs.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Mappings.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Data.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.DTOs.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Mappings.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Application.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.csproj.AssemblyReference.cache
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.AssemblyInfoInputs.cache
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.AssemblyInfo.cs
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.csproj.CoreCompileInputs.cache
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.MvcApplicationPartsAssemblyInfo.cs
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.MvcApplicationPartsAssemblyInfo.cache
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.sourcelink.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\scopedcss\bundle\Patient_Management_Module.styles.css
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.development.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\swae.build.ex.cache
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_.C805D2A4.Up2Date
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\refint\Patient_Management_Module.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.genruntimeconfig.cache
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\ref\Patient_Management_Module.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\refint\Patient_Management_Module.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\appsettings.Development.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\appsettings.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.staticwebassets.endpoints.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.exe
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.deps.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.runtimeconfig.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_Management_Module.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\AutoMapper.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\BCrypt.Net-Next.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\CloudinaryDotNet.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.Interfaces.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\EPPlus.System.Drawing.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Humanizer.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Build.Locator.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Npgsql.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.CodeDom.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.Drawing.Common.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Application.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Data.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Domain.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.DTOs.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Mappings.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Data.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.DTOs.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Mappings.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Application.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.csproj.AssemblyReference.cache
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.AssemblyInfoInputs.cache
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.AssemblyInfo.cs
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.csproj.CoreCompileInputs.cache
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.MvcApplicationPartsAssemblyInfo.cs
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.MvcApplicationPartsAssemblyInfo.cache
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.sourcelink.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\scopedcss\bundle\Patient_Management_Module.styles.css
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.development.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\swae.build.ex.cache
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_.C805D2A4.Up2Date
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\Patient_Management_Module.genruntimeconfig.cache
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\obj\Debug\net10.0\ref\Patient_Management_Module.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_Management_Module\bin\Debug\net10.0\Dapper.dll

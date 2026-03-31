@@ -47,7 +47,7 @@ namespace Patient_Management_Module.Middleware
                 _ => new
                 {
                     StatusCode = (int)HttpStatusCode.InternalServerError,
-                    Message = "An unexpected error occurred."
+                    Message = $"An unexpected error occurred: {exception.Message}"
                 }
             };
 

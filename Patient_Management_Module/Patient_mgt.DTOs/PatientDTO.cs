@@ -20,7 +20,7 @@ namespace Patient_mgt.DTOs
         public string Pincode { get; set; } = string.Empty;
         public string? BloodGroup { get; set; }
         public string Status { get; set; } = string.Empty;
-        public string? PhotoBase64 { get; set; }
+        public string? PhotoUrl { get; set; }
         public bool IsActive { get; set; }
     }
 
@@ -84,6 +84,6 @@ namespace Patient_mgt.DTOs
         public string Pincode { get; set; } = string.Empty;
         public string? BloodGroup { get; set; }
         public string Status { get; set; } = string.Empty;
-        public string? PhotoBase64 { get; set; }
+        public string? PhotoUrl { get; set; }
     }
 }

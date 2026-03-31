@@ -16,7 +16,7 @@ namespace Patient_mgt.Infrastructure
         }
         public async Task<IEnumerable<Patient>> GetAllPatients()
         {
-            return _context.patients.ToList();
+            return await _context.patients.ToListAsync();
         }
 
         public async Task<Patient> GetPatientById(int id)

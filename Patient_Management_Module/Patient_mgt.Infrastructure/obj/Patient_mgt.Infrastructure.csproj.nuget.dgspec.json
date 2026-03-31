@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj": {}
+    "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj": {
+    "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj",
+        "projectUniqueName": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj",
         "projectName": "Patient_mgt.Application",
-        "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj",
+        "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj",
         "packagesPath": "C:\\Users\\BharathlakshmiSelvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Application\\obj\\",
+        "outputPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj": {
-                "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj"
+              "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj": {
+                "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj"
               }
             }
           }
@@ -48,7 +48,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -353,14 +353,14 @@
         }
       }
     },
-    "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj": {
+    "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj",
+        "projectUniqueName": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj",
         "projectName": "Patient_mgt.Data",
-        "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj",
+        "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj",
         "packagesPath": "C:\\Users\\BharathlakshmiSelvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Data\\obj\\",
+        "outputPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -381,11 +381,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj": {
-                "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj"
+              "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj": {
+                "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj"
               },
-              "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj": {
-                "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj"
+              "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj": {
+                "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj"
               }
             }
           }
@@ -400,7 +400,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -414,17 +414,17 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.13, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[9.0.13, )"
+              "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.13, )"
+              "version": "[9.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -443,7 +443,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -721,14 +721,14 @@
         }
       }
     },
-    "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj": {
+    "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj",
+        "projectUniqueName": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj",
         "projectName": "Patient_mgt.Domain",
-        "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj",
+        "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj",
         "packagesPath": "C:\\Users\\BharathlakshmiSelvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\obj\\",
+        "outputPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -761,7 +761,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -788,7 +788,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1066,14 +1066,14 @@
         }
       }
     },
-    "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj": {
+    "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj",
+        "projectUniqueName": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj",
         "projectName": "Patient_mgt.DTOs",
-        "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj",
+        "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj",
         "packagesPath": "C:\\Users\\BharathlakshmiSelvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.DTOs\\obj\\",
+        "outputPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1094,8 +1094,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj": {
-                "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj"
+              "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj": {
+                "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj"
               }
             }
           }
@@ -1110,7 +1110,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -1141,7 +1141,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1419,14 +1419,14 @@
         }
       }
     },
-    "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj": {
+    "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj",
         "projectName": "Patient_mgt.Infrastructure",
-        "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj",
+        "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\Patient_mgt.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\BharathlakshmiSelvar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Infrastructure\\obj\\",
+        "outputPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1447,17 +1447,17 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj": {
-                "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj"
+              "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj": {
+                "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Application\\Patient_mgt.Application.csproj"
               },
-              "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj": {
-                "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj"
+              "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj": {
+                "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Data\\Patient_mgt.Data.csproj"
               },
-              "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj": {
-                "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj"
+              "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj": {
+                "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.Domain\\Patient_mgt.Domain.csproj"
               },
-              "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj": {
-                "projectPath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj"
+              "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj": {
+                "projectPath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj"
               }
             }
           }
@@ -1472,7 +1472,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -1485,6 +1485,14 @@
             "BCrypt.Net-Next": {
               "target": "Package",
               "version": "[4.1.0, )"
+            },
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.26.2, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.72, )"
             },
             "EPPlus": {
               "target": "Package",
@@ -1511,7 +1519,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YXP0fe5giOo=",
+  "dgSpecHash": "ZvwkEG7tNJU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\BharathlakshmiSelvar\\Downloads\\Patient_Management_Module\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj",
+  "projectFilePath": "D:\\Patient_Management_Module- pgvector\\Patient_Management_Module\\Patient_mgt.DTOs\\Patient_mgt.DTOs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BharathlakshmiSelvar\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.24\\microsoft.aspnetcore.authentication.jwtbearer.8.0.24.nupkg.sha512",
     "C:\\Users\\BharathlakshmiSelvar\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",

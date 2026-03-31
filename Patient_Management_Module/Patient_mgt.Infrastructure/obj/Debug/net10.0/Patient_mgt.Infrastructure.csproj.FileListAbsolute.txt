@@ -19,3 +19,114 @@ C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Manage
 C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\refint\Patient_mgt.Infrastructure.dll
 C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.pdb
 C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\ref\Patient_mgt.Infrastructure.dll
+C:\Users\BharathlakshmiSelvar\Downloads\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.sourcelink.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.deps.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Application.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Data.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Domain.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.DTOs.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Application.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Data.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.DTOs.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.csproj.AssemblyReference.cache
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.AssemblyInfoInputs.cache
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.AssemblyInfo.cs
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.csproj.CoreCompileInputs.cache
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.sourcelink.json
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_.74790D0A.Up2Date
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\refint\Patient_mgt.Infrastructure.dll
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+d:\Patient_Management_Module\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\ref\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.deps.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Application.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Data.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Domain.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.DTOs.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Application.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Data.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.DTOs.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.csproj.AssemblyReference.cache
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.AssemblyInfoInputs.cache
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.AssemblyInfo.cs
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.sourcelink.json
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_.74790D0A.Up2Date
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\refint\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module - Copy (2)\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\ref\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.deps.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Application.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Data.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Domain.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.DTOs.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Application.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Data.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.DTOs.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.csproj.AssemblyReference.cache
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.AssemblyInfoInputs.cache
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.AssemblyInfo.cs
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.sourcelink.json
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_.74790D0A.Up2Date
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\refint\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module -sqlserver-anti\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\ref\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.deps.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Application.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Data.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Domain.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.DTOs.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Application.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Data.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.DTOs.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.csproj.AssemblyReference.cache
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.AssemblyInfoInputs.cache
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.AssemblyInfo.cs
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.sourcelink.json
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_.74790D0A.Up2Date
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\refint\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module -postgres\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\ref\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.csproj.AssemblyReference.cache
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.AssemblyInfoInputs.cache
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.AssemblyInfo.cs
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.sourcelink.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\refint\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.deps.json
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Infrastructure.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Application.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Data.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Domain.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.DTOs.dll
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Application.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Data.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.Domain.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\bin\Debug\net10.0\Patient_mgt.DTOs.pdb
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\Patient_.74790D0A.Up2Date
+D:\Patient_Management_Module- pgvector\Patient_Management_Module\Patient_mgt.Infrastructure\obj\Debug\net10.0\ref\Patient_mgt.Infrastructure.dll

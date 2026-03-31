@@ -24,6 +24,9 @@ namespace Patient_mgt.DTOs
         [MaxLength(1000)]
         public string? Notes { get; set; }
 
+        [MaxLength(500)]
+        public string? ExistingConditions { get; set; }
+
         public List<CreatePrescribedMedicineDTO> PrescribedMedicines { get; set; } = new List<CreatePrescribedMedicineDTO>();
     }
 
@@ -57,6 +60,7 @@ namespace Patient_mgt.DTOs
         public string Diagnosis { get; set; } = string.Empty;
         public string ICDCode { get; set; } = string.Empty;
         public string? Notes { get; set; }
+        public string? ExistingConditions { get; set; }
         public DateTime CreatedAt { get; set; }
         public List<GetPrescribedMedicineDTO> PrescribedMedicines { get; set; } = new List<GetPrescribedMedicineDTO>();
     }
@@ -79,6 +83,7 @@ namespace Patient_mgt.DTOs
         public string Diagnosis { get; set; } = string.Empty;
         public string ICDCode { get; set; } = string.Empty;
         public string? Notes { get; set; }
+        public string? ExistingConditions { get; set; }
         public DateTime CreatedAt { get; set; }
     }
 }
