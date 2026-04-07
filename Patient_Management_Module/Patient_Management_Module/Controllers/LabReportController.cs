@@ -94,18 +94,18 @@ namespace Patient_Management_Module.Controllers
                     return BadRequest($"Failed to download file: {ex.Message}");
                 }
 
-                // Step 1: OCR - Extract text from image/PDF
+                // Step 1: Extract text — route to OCR (image/PDF), JSON parser, or FHIR parser
                 string extractedText;
                 try
                 {
-                    Console.WriteLine("Starting OCR extraction...");
-                    extractedText = await _ocrService.ExtractTextFromImageAsync(fileBytes);
-                    Console.WriteLine($"OCR completed, extracted text length: {extractedText?.Length ?? 0}");
+                    Console.WriteLine("Detecting file format and extracting text...");
+                    extractedText = await ExtractTextFromFileAsync(fileBytes);
+                    Console.WriteLine($"Text extraction completed, length: {extractedText?.Length ?? 0}");
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"OCR extraction failed: {ex.Message}");
-                    return StatusCode(500, $"OCR extraction failed: {ex.Message}");
+                    Console.WriteLine($"Text extraction failed: {ex.Message}");
+                    return StatusCode(500, $"Text extraction failed: {ex.Message}");
                 }
 
                 if (string.IsNullOrEmpty(extractedText))
@@ -279,6 +279,183 @@ namespace Patient_Management_Module.Controllers
             {
                 return StatusCode(500, $"Test failed: {ex.Message}");
             }
+        }
+
+        /// <summary>
+        /// Detects whether the file is a JSON/FHIR document or a binary (image/PDF),
+        /// and extracts human-readable lab text accordingly.
+        /// </summary>
+        private async Task<string> ExtractTextFromFileAsync(byte[] fileBytes)
+        {
+            // JSON detection: first non-whitespace byte is '{' or '['
+            int startIdx = 0;
+            while (startIdx < fileBytes.Length && (fileBytes[startIdx] == 0x20 || fileBytes[startIdx] == 0x09 ||
+                                                    fileBytes[startIdx] == 0x0A || fileBytes[startIdx] == 0x0D))
+                startIdx++;
+
+            if (startIdx < fileBytes.Length && (fileBytes[startIdx] == (byte)'{' || fileBytes[startIdx] == (byte)'['))
+            {
+                var jsonText = System.Text.Encoding.UTF8.GetString(fileBytes);
+                JsonDocument doc;
+                try { doc = JsonDocument.Parse(jsonText); }
+                catch (JsonException ex)
+                {
+                    Console.WriteLine($"File starts with '{{' but is not valid JSON: {ex.Message}. Falling back to OCR.");
+                    return await _ocrService.ExtractTextFromImageAsync(fileBytes);
+                }
+
+                using (doc)
+                {
+                    var root = doc.RootElement;
+
+                    // Check for FHIR resource type
+                    if (root.TryGetProperty("resourceType", out var resourceTypeProp))
+                    {
+                        var resourceType = resourceTypeProp.GetString();
+                        Console.WriteLine($"Detected FHIR resource: {resourceType}");
+
+                        if (resourceType == "Bundle")
+                            return ExtractTextFromFhirBundle(root);
+
+                        if (resourceType == "DiagnosticReport")
+                            return ExtractTextFromFhirDiagnosticReport(root);
+
+                        if (resourceType == "Observation")
+                            return ExtractTextFromFhirObservation(root);
+
+                        // Unknown FHIR resource — pass JSON as-is to Gemini
+                        Console.WriteLine($"Unknown FHIR resource type '{resourceType}', passing raw JSON.");
+                        return jsonText;
+                    }
+
+                    // Plain JSON (not FHIR) — pass directly to Gemini
+                    Console.WriteLine("Detected plain JSON lab data, passing directly to Gemini.");
+                    return jsonText;
+                }
+            }
+
+            // Binary file — use OCR (handles PDF, PNG, JPEG, etc.)
+            Console.WriteLine("Detected binary file (image/PDF), routing to OCR.");
+            return await _ocrService.ExtractTextFromImageAsync(fileBytes);
+        }
+
+        private string ExtractTextFromFhirBundle(JsonElement bundle)
+        {
+            var sb = new System.Text.StringBuilder();
+            sb.AppendLine("FHIR Bundle Lab Report");
+            sb.AppendLine("======================");
+
+            if (!bundle.TryGetProperty("entry", out var entries))
+                return "FHIR Bundle contained no entries.";
+
+            foreach (var entry in entries.EnumerateArray())
+            {
+                if (!entry.TryGetProperty("resource", out var resource)) continue;
+                if (!resource.TryGetProperty("resourceType", out var rtProp)) continue;
+
+                var rt = rtProp.GetString();
+                if (rt == "Observation")
+                    sb.AppendLine(ExtractTextFromFhirObservation(resource));
+                else if (rt == "DiagnosticReport")
+                    sb.AppendLine(ExtractTextFromFhirDiagnosticReport(resource));
+            }
+
+            var result = sb.ToString().Trim();
+            Console.WriteLine($"Extracted FHIR Bundle text ({result.Length} chars).");
+            return result;
+        }
+
+        private string ExtractTextFromFhirDiagnosticReport(JsonElement report)
+        {
+            var sb = new System.Text.StringBuilder();
+
+            // Report title/name
+            if (report.TryGetProperty("code", out var code) &&
+                code.TryGetProperty("text", out var codeText))
+                sb.AppendLine($"Report: {codeText.GetString()}");
+
+            // Status
+            if (report.TryGetProperty("status", out var status))
+                sb.AppendLine($"Status: {status.GetString()}");
+
+            // Conclusion / text narrative
+            if (report.TryGetProperty("conclusion", out var conclusion))
+                sb.AppendLine($"Conclusion: {conclusion.GetString()}");
+
+            if (report.TryGetProperty("text", out var narrative) &&
+                narrative.TryGetProperty("div", out var div))
+                sb.AppendLine(div.GetString());
+
+            return sb.ToString().Trim();
+        }
+
+        private string ExtractTextFromFhirObservation(JsonElement obs)
+        {
+            var sb = new System.Text.StringBuilder();
+
+            // Test name
+            string testName = "Unknown Test";
+            if (obs.TryGetProperty("code", out var code))
+            {
+                if (code.TryGetProperty("text", out var codeText))
+                    testName = codeText.GetString() ?? testName;
+                else if (code.TryGetProperty("coding", out var coding) &&
+                         coding.GetArrayLength() > 0 &&
+                         coding[0].TryGetProperty("display", out var display))
+                    testName = display.GetString() ?? testName;
+            }
+
+            // Value
+            string value = "";
+            string unit = "";
+            if (obs.TryGetProperty("valueQuantity", out var vq))
+            {
+                if (vq.TryGetProperty("value", out var val)) value = val.ToString();
+                if (vq.TryGetProperty("unit", out var u)) unit = u.GetString() ?? "";
+            }
+            else if (obs.TryGetProperty("valueString", out var vs))
+            {
+                value = vs.GetString() ?? "";
+            }
+            else if (obs.TryGetProperty("valueCodeableConcept", out var vcc) &&
+                     vcc.TryGetProperty("text", out var vccText))
+            {
+                value = vccText.GetString() ?? "";
+            }
+
+            // Reference range
+            string refRange = "";
+            if (obs.TryGetProperty("referenceRange", out var ranges) && ranges.GetArrayLength() > 0)
+            {
+                var r = ranges[0];
+                if (r.TryGetProperty("text", out var rText))
+                    refRange = rText.GetString() ?? "";
+                else
+                {
+                    string low = r.TryGetProperty("low", out var lo) && lo.TryGetProperty("value", out var lv) ? lv.ToString() : "";
+                    string high = r.TryGetProperty("high", out var hi) && hi.TryGetProperty("value", out var hv) ? hv.ToString() : "";
+                    if (!string.IsNullOrEmpty(low) || !string.IsNullOrEmpty(high))
+                        refRange = $"{low}-{high}";
+                }
+            }
+
+            // Interpretation (normal/abnormal)
+            string interpretation = "";
+            if (obs.TryGetProperty("interpretation", out var interps) && interps.GetArrayLength() > 0)
+            {
+                var interp = interps[0];
+                if (interp.TryGetProperty("text", out var interpText))
+                    interpretation = interpText.GetString() ?? "";
+                else if (interp.TryGetProperty("coding", out var ic) && ic.GetArrayLength() > 0 &&
+                         ic[0].TryGetProperty("code", out var ic0))
+                    interpretation = ic0.GetString() ?? "";
+            }
+
+            sb.Append($"{testName}: {value} {unit}".Trim());
+            if (!string.IsNullOrEmpty(refRange)) sb.Append($" (Ref: {refRange})");
+            if (!string.IsNullOrEmpty(interpretation)) sb.Append($" [{interpretation}]");
+
+            return sb.ToString();
         }
     }
 

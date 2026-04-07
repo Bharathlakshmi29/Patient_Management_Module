@@ -110,23 +110,31 @@ Text: {text}";
         {
             var labData = JsonSerializer.Serialize(labResults, new JsonSerializerOptions { WriteIndented = true });
             
-            var prompt = $@"Analyze these lab results and provide a CONCISE summary in this exact format:
+            var prompt = $@"Analyze these lab results and return a clinical summary using EXACTLY this format. Do not deviate.
 
 Lab Report Summary
 
 🔴 ABNORMAL RESULTS:
-[List only abnormal values with their status (High/Low) and reference ranges]
+• [TestName]: [Value] [Unit] ([High/Low]) [Ref: RefRange]
 
 📊 KEY FINDINGS:
-[2-3 sentences maximum about the most important findings]
+[2-3 sentences about the most important findings]
 
 ⚠️ CLINICAL SIGNIFICANCE:
 [1-2 sentences about what these abnormalities might indicate]
 
 🔍 RECOMMENDED FOLLOW-UP:
-[List 2-3 most important next steps or tests]
+• [action 1]
+• [action 2]
+• [action 3]
 
-IMPORTANT: Add TWO line breaks between each section. Use simple bullet points with • symbol. Keep the entire response under 200 words. Focus only on clinically significant abnormalities.
+STRICT RULES:
+- Use exactly the section headers above with their emoji, nothing else
+- Abnormal results line format must be: • TestName: Value Unit (High/Low) [Ref: range]
+- Use • for every bullet point
+- One blank line between sections, no more
+- No markdown bold, no asterisks, no extra headers
+- Under 200 words total
 
 Lab Results:
 {labData}";
@@ -340,27 +348,20 @@ Lab Results:
         private string CleanClinicalSummary(string summary)
         {
             if (string.IsNullOrEmpty(summary)) return summary;
-            
-            // Remove markdown headers and replace with clean formatting
+
+            // Remove markdown bold/italic markers
+            summary = System.Text.RegularExpressions.Regex.Replace(summary, @"\*{1,2}([^*]+)\*{1,2}", "$1");
+
+            // Remove markdown headers
             summary = System.Text.RegularExpressions.Regex.Replace(summary, @"#{1,6}\s*", "");
-            
-            // Replace markdown bullet points with bullet symbols
-            summary = System.Text.RegularExpressions.Regex.Replace(summary, @"^\s*\*\s*", "• ", System.Text.RegularExpressions.RegexOptions.Multiline);
-            summary = System.Text.RegularExpressions.Regex.Replace(summary, @"^\s*-\s*", "• ", System.Text.RegularExpressions.RegexOptions.Multiline);
-            
-            // Ensure proper line breaks between sections
-            summary = System.Text.RegularExpressions.Regex.Replace(summary, @"(\ud83d\udd34|\ud83d\udcca|\u26a0\ufe0f|\ud83d\udd0d)", "\n$1");
-            
-            // Clean up multiple consecutive line breaks
+
+            // Normalize bullet points to •
+            summary = System.Text.RegularExpressions.Regex.Replace(summary, @"^\s*[\*\-]\s+", "• ", System.Text.RegularExpressions.RegexOptions.Multiline);
+
+            // Collapse 3+ consecutive newlines to exactly two
             summary = System.Text.RegularExpressions.Regex.Replace(summary, @"\n{3,}", "\n\n");
-            
-            // Convert line breaks to double line breaks for better text display
-            summary = summary.Replace("\n", "\n\n");
-            
-            // Trim whitespace
-            summary = summary.Trim();
-            
-            return summary;
+
+            return summary.Trim();
         }
 
         //llm response for RAG response
