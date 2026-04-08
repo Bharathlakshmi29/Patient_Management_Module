@@ -1,6 +1,7 @@
 # Secrets - never commit these
 appsettings.Development.json
 appsettings.Production.json
+Patient_Management_Module/Patient_Management_Module/appsettings.json
 
 # Build output
 **/bin/
