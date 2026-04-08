@@ -1,0 +1,14 @@
+# Secrets - never commit these
+appsettings.Development.json
+appsettings.Production.json
+
+# Build output
+**/bin/
+**/obj/
+
+# IDE
+.vs/
+*.user
+
+# Node
+node_modules/
